@@ -1,0 +1,5 @@
+NIKITA,nikita,123,Student
+GUDDI,guddi,1234,Student
+POONAM,poonam,12,Student
+PALLAVI,pallavi,11,Student
+PIU,piu,1212,Student
